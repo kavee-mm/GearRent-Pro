@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/service/BranchService.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/service/CustomerService.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/entity/Category.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/ui/LoginUI.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/dao/BranchDAO.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/entity/Rental.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/service/CategoryService.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/service/RentalService.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/dao/ReservationDAO.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/dao/RentalDAO.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/controller/RentalController.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/ui/MainApp.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/service/EquipmentService.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/service/ReservationService.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/dao/CustomerDAO.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/controller/EquipmentController.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/dao/CategoryDAO.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/dao/EquipmentDAO.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/entity/Equipment.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/ui/DashboardUI.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/dao/UserDAO.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/controller/BranchController.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/controller/ReservationController.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/dao/DBConnection.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/entity/Customer.java</file>
+            <file>file:/D:/IJSE/NetBeans%20Projects/GearRentPro/src/com/kavee/gearrentpro/entity/Reservation.java</file>
+        </group>
+    </open-files>
+</project-private>
