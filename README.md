@@ -19,9 +19,8 @@ Controller, Service, DAO, and Entity layers.
 5. Run the project using NetBeans
 
 ## Note
-Some features are under development.
-
-## Note
 This project is under development.
 The JavaFX entry point and runtime configuration may require adjustment
 depending on Java version and IDE setup.
+
+JavaFX is not bundled with JDK 11+. Manual configuration may be required.
