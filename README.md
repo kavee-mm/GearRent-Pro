@@ -22,5 +22,7 @@ Controller, Service, DAO, and Entity layers.
 This project is under development.
 The JavaFX entry point and runtime configuration may require adjustment
 depending on Java version and IDE setup.
-
 JavaFX is not bundled with JDK 11+. Manual configuration may be required.
+
+## Testing
+No automated unit tests are included in this version of the project.
